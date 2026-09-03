@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title description">
+  <title id="title">Lubin Raj's engineering journey</title>
+  <desc id="description">A timeline from automation and IoT to full-stack products and agentic AI.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#25d0b1"/>
+      <stop offset="0.5" stop-color="#748ffc"/>
+      <stop offset="1" stop-color="#9b7cff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="270" rx="24" fill="#0d1426"/>
+  <text x="60" y="50" fill="#8290aa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3">THE PATH SO FAR</text>
+  <path d="M170 121 H1030" stroke="url(#line)" stroke-width="5" stroke-linecap="round"/>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <circle cx="190" cy="121" r="24" fill="#102f35" stroke="#25d0b1" stroke-width="5"/>
+    <circle cx="600" cy="121" r="24" fill="#1a2548" stroke="#748ffc" stroke-width="5"/>
+    <circle cx="1010" cy="121" r="24" fill="#2b1c4b" stroke="#9b7cff" stroke-width="5"/>
+
+    <text x="190" y="91" fill="#7ee7d2" font-size="15" font-weight="700">STARTED WITH</text>
+    <text x="190" y="174" fill="#f2f5ff" font-size="22" font-weight="700">Automation + IoT</text>
+    <text x="190" y="207" fill="#aab5ca" font-size="16">Arduino • PLCs • Control systems</text>
+
+    <text x="600" y="91" fill="#9eb1ff" font-size="15" font-weight="700">GREW INTO</text>
+    <text x="600" y="174" fill="#f2f5ff" font-size="22" font-weight="700">Full-stack Products</text>
+    <text x="600" y="207" fill="#aab5ca" font-size="16">Interfaces • APIs • Data • Cloud</text>
+
+    <text x="1010" y="91" fill="#c1aaff" font-size="15" font-weight="700">EXPLORING NOW</text>
+    <text x="1010" y="174" fill="#f2f5ff" font-size="22" font-weight="700">Agentic AI</text>
+    <text x="1010" y="207" fill="#aab5ca" font-size="16">MCP • Mastra • Memory • Evals</text>
+  </g>
+</svg>

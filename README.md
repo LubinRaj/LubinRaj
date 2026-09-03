@@ -1,58 +1,55 @@
-# Hi, I'm Lubin 👋
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Lubin Raj - Full Stack AI Engineer building products, systems, and agentic AI" width="100%" />
+</p>
 
-I'm a full-stack engineer who likes building products where the frontend, backend, data, cloud, and AI all have to work together—not AI demos that stop at a chat box.
+<p align="center">
+  <a href="https://www.linkedin.com/in/lubinrajJ/">LinkedIn</a> •
+  <a href="https://github.com/LubinRaj/Cognaxis">Cognaxis</a>
+</p>
 
-Right now, I am especially curious about agentic systems: how agents use tools, how they keep the right context, how multiple agents coordinate, and what it takes to make the whole thing reliable enough for real users.
+## A quick hello
 
-## My path so far
+I'm a **Full Stack AI Engineer** who enjoys projects where interfaces, APIs, data, cloud, and AI have to work together.
 
-I did not start with AI. I started closer to the physical world—Arduino, PLCs, control panels, industrial automation, and IoT prototypes. That taught me to think in systems: inputs, outputs, failure states, and what happens when software meets reality.
+I started with industrial automation and IoT, moved into full-stack product engineering, and now spend most of my curiosity on agentic systems. I am still early in my career, so I actively look for difficult projects that force me to learn beyond what I already know.
 
-From there, I moved deeper into web and product engineering. I worked across interfaces, APIs, databases, integrations, real-time systems, cloud infrastructure, and the unglamorous details that turn a feature into a usable product. AI became the next layer of that journey, not a replacement for the engineering underneath it.
+<p align="center">
+  <img src="./assets/journey.svg" alt="Journey from automation and IoT to full-stack products and agentic AI" width="100%" />
+</p>
 
-I still consider myself early in my career, and I see that as an advantage. I want problems with a steep learning curve, projects slightly beyond what I already know how to build, and teams that care about understanding the system—not just shipping the first plausible output.
+## What I'm exploring
 
-## What I'm exploring now
+| 🧠 Reliable agents | 🧩 Context and memory |
+| --- | --- |
+| Tool contracts, permissions, recovery, observability, and human approval | Long-running context, retrieval, memory boundaries, deletion, and evaluation |
+| 🤝 Multi-agent systems | 🏭 Agentic SDLC |
+| When agents should collaborate and when deterministic software is the better choice | Using agents across planning, TDD, implementation, browser validation, review, and release |
 
-- How to design **MCP servers and tool contracts** that give agents useful capabilities without giving them unsafe freedom
-- How **memory, context, retrieval, and evaluation** change as an agent moves from a demo to a long-running product
-- Where **multi-agent and sub-agent patterns** genuinely help, and where a simpler deterministic workflow is better
-- How frameworks such as **Mastra** can support orchestration, observability, human approval, and recoverable execution
-- How an **agentic software factory** can improve the whole SDLC—from scoping and planning to TDD, browser validation, review, and release
-- How small engineering teams can use AI to attempt much larger products without lowering their quality bar
+## Current build - [Cognaxis](https://github.com/LubinRaj/Cognaxis)
 
-These are the questions I want to answer by building, breaking, measuring, and rebuilding real systems.
+> Cognaxis began during the Google GenAI Academy program. I chose an AI-assisted journal because memory makes trust unavoidable: who owns the context, what can the model see, and what must disappear when something is deleted?
 
-## My current playground: [Cognaxis](https://github.com/LubinRaj/Cognaxis)
+Today it is my playground for Gemini, permission-scoped memory, tenant boundaries, signal tracking, insights, server-side model access, and security-focused testing. It is an active build, not a finished showcase.
 
-Cognaxis started as part of the Google GenAI Academy program. I wanted the project to become more than a thin wrapper around Gemini, so I chose a problem where trust matters: an AI-assisted journal that can remember personal context.
+<p align="center">
+  <img src="./assets/toolbox.svg" alt="Toolbox covering agent systems, product engineering, data platforms, and software quality" width="100%" />
+</p>
 
-That immediately raised more interesting questions. Who owns the memory? What is the model allowed to see? How should personal and organizational knowledge stay separate? What must happen when a user deletes something? Cognaxis became my place to explore those questions through permission-scoped memory, server-side model access, tenant boundaries, structured summaries, signal tracking, insights, and security-focused tests.
+## Highlights
 
-It is still an active build, and that is exactly why it belongs here: it shows what I am learning, the trade-offs I am making, and how the architecture evolves with the product.
-
-## Tools I reach for
-
-- **For agentic systems:** MCP, Mastra, Gemini, LLM/SLM applications, tool and function calling, memory, context engineering, agent orchestration, evaluations, harnesses, and human-in-the-loop patterns
-- **For building products:** TypeScript, JavaScript, Next.js, React, Angular, Node.js, Hono, Express, NestJS, REST APIs, Socket.IO, Tailwind CSS, and Three.js
-- **For data and infrastructure:** PostgreSQL, MongoDB, Redis/QStash, Firebase, Firestore, AWS, Google Cloud, Docker, and CI/CD
-- **For building with confidence:** Playwright, Vitest, TDD, automated browser validation, Claude Code, and OpenAI Codex
-
-I am not trying to collect technologies. I like understanding why a tool fits, where it stops fitting, and what the system needs when the happy path disappears.
-
-## Things I'm proud of
-
-- **Google GenAI Academy — GenAI Master (2026):** completed the program and built Cognaxis using Gemini, Google AI Studio, and Cloud Run
-- **IIT Madras NPTEL — Operations Management specialization:** ranked in the Top 1% in one subject and the Top 10% in two subjects
-- **IET–NASA Space Apps Challenge (2020):** led a six-member unmanned rover project that received the People's Choice / 3rd Prize
-- **Research publication (2021):** published and presented work on a hydraulics-based automatic urinal flushing system through ICTAME and IRJET
+| 🎓 Google GenAI Academy | 🥇 IIT Madras NPTEL |
+| --- | --- |
+| **GenAI Master, 2026**<br>Built Cognaxis with Gemini, Google AI Studio, and Cloud Run | **Operations Management specialization**<br>Top 1% in one subject and Top 10% in two subjects |
+| 🚀 IET-NASA Space Apps | 📄 Published research |
+| **People's Choice / 3rd Prize, 2020**<br>Led a six-member unmanned rover project | **ICTAME and IRJET, 2021**<br>Hydraulics-based automatic urinal flushing system |
 
 ## What I want to build next
 
-I want to work on ambitious AI products with real depth: multiple tools and data sources, long-running context, complex workflows, meaningful user experience, and enough scale to expose the hard architectural problems.
+Ambitious AI products with multiple tools, meaningful data, long-running context, complex workflows, and enough scale to reveal the hard engineering problems.
 
-I also want this GitHub profile to become a record of that journey—working projects, experiments, reusable patterns, mistakes worth documenting, and ideas that became clearer only after I tried to build them.
+I want this profile to grow into a visual record of that journey: working projects, experiments, reusable patterns, and lessons that only appear after building something real.
 
-If you are working on a serious AI product, an agent platform, developer tooling, or an unusually difficult full-stack problem, I would be happy to connect and learn more.
-
-[LinkedIn](https://www.linkedin.com/in/lubinrajJ/) · [Cognaxis](https://github.com/LubinRaj/Cognaxis)
+<p align="center">
+  <strong>Building a serious AI product, agent platform, or difficult full-stack system?</strong><br>
+  <a href="https://www.linkedin.com/in/lubinrajJ/">Let's connect on LinkedIn</a>
+</p>

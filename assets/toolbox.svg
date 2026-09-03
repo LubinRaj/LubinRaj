@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title description">
+  <title id="title">Lubin Raj's toolbox</title>
+  <desc id="description">Grouped tools for agent systems, product engineering, platforms, and software quality.</desc>
+  <rect width="1200" height="390" rx="24" fill="#0d1426"/>
+  <text x="60" y="55" fill="#f2f5ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="750">Tools I reach for</text>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <g transform="translate(60 88)">
+      <rect width="525" height="118" rx="18" fill="#10263a" stroke="#1f5260"/>
+      <text x="24" y="34" fill="#7ee7d2" font-size="16" font-weight="700" letter-spacing="2">AGENT SYSTEMS</text>
+      <text x="24" y="70" fill="#f2f5ff" font-size="19">MCP  •  Mastra  •  Gemini  •  Tool calling</text>
+      <text x="24" y="99" fill="#aab5ca" font-size="16">Memory  •  Context  •  Evals  •  HITL</text>
+    </g>
+
+    <g transform="translate(615 88)">
+      <rect width="525" height="118" rx="18" fill="#172044" stroke="#36498a"/>
+      <text x="24" y="34" fill="#9eb1ff" font-size="16" font-weight="700" letter-spacing="2">PRODUCT ENGINEERING</text>
+      <text x="24" y="70" fill="#f2f5ff" font-size="19">TypeScript  •  Next.js  •  React  •  Node.js</text>
+      <text x="24" y="99" fill="#aab5ca" font-size="16">Hono  •  Express  •  APIs  •  Real-time systems</text>
+    </g>
+
+    <g transform="translate(60 228)">
+      <rect width="525" height="118" rx="18" fill="#142238" stroke="#294667"/>
+      <text x="24" y="34" fill="#8fc8ff" font-size="16" font-weight="700" letter-spacing="2">DATA + PLATFORM</text>
+      <text x="24" y="70" fill="#f2f5ff" font-size="19">PostgreSQL  •  Redis  •  Firebase  •  MongoDB</text>
+      <text x="24" y="99" fill="#aab5ca" font-size="16">AWS  •  Google Cloud  •  Docker  •  CI/CD</text>
+    </g>
+
+    <g transform="translate(615 228)">
+      <rect width="525" height="118" rx="18" fill="#281a46" stroke="#6249a1"/>
+      <text x="24" y="34" fill="#c1aaff" font-size="16" font-weight="700" letter-spacing="2">BUILD + VERIFY</text>
+      <text x="24" y="70" fill="#f2f5ff" font-size="19">Playwright  •  Vitest  •  TDD  •  Browser checks</text>
+      <text x="24" y="99" fill="#aab5ca" font-size="16">Claude Code  •  OpenAI Codex  •  Agentic SDLC</text>
+    </g>
+  </g>
+</svg>
