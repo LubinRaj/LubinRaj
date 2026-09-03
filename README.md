@@ -1,51 +1,58 @@
-<div align="center">
+# Hi, I'm Lubin 👋
 
-# Lubin Raj
+I'm a full-stack engineer who likes building products where the frontend, backend, data, cloud, and AI all have to work together—not AI demos that stop at a chat box.
 
-### Full Stack AI Engineer
+Right now, I am especially curious about agentic systems: how agents use tools, how they keep the right context, how multiple agents coordinate, and what it takes to make the whole thing reliable enough for real users.
 
-Building agentic systems and AI-native products from product architecture through reliable delivery.
+## My path so far
 
-**Agentic AI · MCP · Mastra · Full-stack product engineering · Agentic SDLC**
+I did not start with AI. I started closer to the physical world—Arduino, PLCs, control panels, industrial automation, and IoT prototypes. That taught me to think in systems: inputs, outputs, failure states, and what happens when software meets reality.
 
-[LinkedIn](https://www.linkedin.com/in/lubinrajJ/) · [Featured project: Cognaxis](https://github.com/LubinRaj/Cognaxis)
+From there, I moved deeper into web and product engineering. I worked across interfaces, APIs, databases, integrations, real-time systems, cloud infrastructure, and the unglamorous details that turn a feature into a usable product. AI became the next layer of that journey, not a replacement for the engineering underneath it.
 
-</div>
+I still consider myself early in my career, and I see that as an advantage. I want problems with a steep learning curve, projects slightly beyond what I already know how to build, and teams that care about understanding the system—not just shipping the first plausible output.
 
-## About
+## What I'm exploring now
 
-I am a Full Stack AI Engineer with 4+ years of experience building SaaS, enterprise, and AI-native products across frontend, backend, APIs, integrations, and agentic systems.
+- How to design **MCP servers and tool contracts** that give agents useful capabilities without giving them unsafe freedom
+- How **memory, context, retrieval, and evaluation** change as an agent moves from a demo to a long-running product
+- Where **multi-agent and sub-agent patterns** genuinely help, and where a simpler deterministic workflow is better
+- How frameworks such as **Mastra** can support orchestration, observability, human approval, and recoverable execution
+- How an **agentic software factory** can improve the whole SDLC—from scoping and planning to TDD, browser validation, review, and release
+- How small engineering teams can use AI to attempt much larger products without lowering their quality bar
 
-My work sits at the intersection of product engineering and applied AI: designing the application architecture, building the user-facing product, connecting models to well-defined tools, and creating the delivery systems that make AI-assisted development dependable.
+These are the questions I want to answer by building, breaking, measuring, and rebuilding real systems.
 
-## Areas of focus
+## My current playground: [Cognaxis](https://github.com/LubinRaj/Cognaxis)
 
-- **Agentic AI systems:** MCP, Mastra, tool and function calling, orchestration, memory, context engineering, evaluations, and human-in-the-loop patterns
-- **AI-native product engineering:** full-stack TypeScript applications, conversational experiences, real-time systems, APIs, integrations, and cloud deployment
-- **Agentic SDLC:** structured scoping, planning, TDD, automated end-to-end validation, and review workflows for AI-assisted delivery
-- **Product architecture:** taking products from 0→1 and evolving their systems, boundaries, and developer experience toward 1→100
+Cognaxis started as part of the Google GenAI Academy program. I wanted the project to become more than a thin wrapper around Gemini, so I chose a problem where trust matters: an AI-assisted journal that can remember personal context.
 
-## Featured project
+That immediately raised more interesting questions. Who owns the memory? What is the model allowed to see? How should personal and organizational knowledge stay separate? What must happen when a user deletes something? Cognaxis became my place to explore those questions through permission-scoped memory, server-side model access, tenant boundaries, structured summaries, signal tracking, insights, and security-focused tests.
 
-### [Cognaxis](https://github.com/LubinRaj/Cognaxis)
+It is still an active build, and that is exactly why it belongs here: it shows what I am learning, the trade-offs I am making, and how the architecture evolves with the product.
 
-A security-first personal intelligence journal and evolving organizational intelligence platform built with Gemini and Google Cloud.
+## Tools I reach for
 
-The project demonstrates authenticated conversational journaling, permission-scoped memory, structured summaries, personal signal and insight workflows, role-aware organization surfaces, server-side model access, tenant isolation, and security-focused test evidence.
+- **For agentic systems:** MCP, Mastra, Gemini, LLM/SLM applications, tool and function calling, memory, context engineering, agent orchestration, evaluations, harnesses, and human-in-the-loop patterns
+- **For building products:** TypeScript, JavaScript, Next.js, React, Angular, Node.js, Hono, Express, NestJS, REST APIs, Socket.IO, Tailwind CSS, and Three.js
+- **For data and infrastructure:** PostgreSQL, MongoDB, Redis/QStash, Firebase, Firestore, AWS, Google Cloud, Docker, and CI/CD
+- **For building with confidence:** Playwright, Vitest, TDD, automated browser validation, Claude Code, and OpenAI Codex
 
-`React` `TypeScript` `Vite` `Express` `Firebase` `Firestore` `Gemini` `Google Cloud` `Cloud Run` `Zod` `Vitest`
+I am not trying to collect technologies. I like understanding why a tool fits, where it stops fitting, and what the system needs when the happy path disappears.
 
-## Core toolkit
+## Things I'm proud of
 
-`TypeScript` `JavaScript` `React` `Next.js` `Angular` `Node.js` `Express` `Hono` `MCP` `Mastra` `PostgreSQL` `Redis` `AWS` `Google Cloud` `Playwright`
+- **Google GenAI Academy — GenAI Master (2026):** completed the program and built Cognaxis using Gemini, Google AI Studio, and Cloud Run
+- **IIT Madras NPTEL — Operations Management specialization:** ranked in the Top 1% in one subject and the Top 10% in two subjects
+- **IET–NASA Space Apps Challenge (2020):** led a six-member unmanned rover project that received the People's Choice / 3rd Prize
+- **Research publication (2021):** published and presented work on a hydraulics-based automatic urinal flushing system through ICTAME and IRJET
 
-## How I work
+## What I want to build next
 
-- Start with the user problem and the system boundaries, not the model alone
-- Give agents explicit tools, contracts, context, permissions, and evaluation criteria
-- Keep security, tenant isolation, observability, and failure handling below the model layer
-- Use tests and automated validation to turn AI-assisted implementation into a repeatable engineering workflow
+I want to work on ambitious AI products with real depth: multiple tools and data sources, long-running context, complex workflows, meaningful user experience, and enough scale to expose the hard architectural problems.
 
-## Connect
+I also want this GitHub profile to become a record of that journey—working projects, experiments, reusable patterns, mistakes worth documenting, and ideas that became clearer only after I tried to build them.
 
-The best place to reach me is [LinkedIn](https://www.linkedin.com/in/lubinrajJ/).
+If you are working on a serious AI product, an agent platform, developer tooling, or an unusually difficult full-stack problem, I would be happy to connect and learn more.
+
+[LinkedIn](https://www.linkedin.com/in/lubinrajJ/) · [Cognaxis](https://github.com/LubinRaj/Cognaxis)
