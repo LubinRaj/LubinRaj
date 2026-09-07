@@ -1,55 +1,57 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Lubin Raj - Full Stack AI Engineer building products, systems, and agentic AI" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Lubin Raj - Full Stack AI Engineer building capable software" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lubinrajJ/">LinkedIn</a> •
+  <a href="https://lubinraj.github.io/">Website</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/lubinrajJ/">LinkedIn</a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/LubinRaj/Cognaxis">Cognaxis</a>
 </p>
 
-## A quick hello
+## A little context
 
-I'm a **Full Stack AI Engineer** who enjoys projects where interfaces, APIs, data, cloud, and AI have to work together.
+I am a **Full Stack AI Engineer** interested in the point where product thinking, systems work, and intelligence meet. I like software with real users, meaningful data, and enough complexity to reveal what good engineering actually requires.
 
-I started with industrial automation and IoT, moved into full-stack product engineering, and now spend most of my curiosity on agentic systems. I am still early in my career, so I actively look for difficult projects that force me to learn beyond what I already know.
+My route began with automation and IoT, moved through product engineering, and now has me exploring agentic AI. I am early in my career, so I deliberately choose work that makes me build, test, and understand more than I did before.
 
 <p align="center">
-  <img src="./assets/journey.svg" alt="Journey from automation and IoT to full-stack products and agentic AI" width="100%" />
+  <img src="./assets/journey.svg" alt="A journey from automation and IoT through product engineering to agentic AI" width="100%" />
 </p>
 
-## What I'm exploring
+## What I am working toward
 
-| 🧠 Reliable agents | 🧩 Context and memory |
+I want to help build ambitious AI products with long-running context, useful tools, consequential workflows, and enough scale to make the hard decisions matter. The interesting part is not adding AI for its own sake. It is making it dependable, well-bounded, and genuinely useful.
+
+| Now | Looking ahead |
 | --- | --- |
-| Tool contracts, permissions, recovery, observability, and human approval | Long-running context, retrieval, memory boundaries, deletion, and evaluation |
-| 🤝 Multi-agent systems | 🏭 Agentic SDLC |
-| When agents should collaborate and when deterministic software is the better choice | Using agents across planning, TDD, implementation, browser validation, review, and release |
+| Agentic systems, MCP, Mastra, tool contracts, context, and evaluation | AI products with real data, multi-tool workflows, and difficult product constraints |
+| Full-stack architecture, product interfaces, APIs, data platforms, and release quality | Teams where curiosity, craft, and fast learning are part of the work |
 
-## Current build - [Cognaxis](https://github.com/LubinRaj/Cognaxis)
+## Projects, research, and experiments
 
-> Cognaxis began during the Google GenAI Academy program. I chose an AI-assisted journal because memory makes trust unavoidable: who owns the context, what can the model see, and what must disappear when something is deleted?
-
-Today it is my playground for Gemini, permission-scoped memory, tenant boundaries, signal tracking, insights, server-side model access, and security-focused testing. It is an active build, not a finished showcase.
+| Work | Why it matters |
+| --- | --- |
+| [**Cognaxis**](https://github.com/LubinRaj/Cognaxis) | An AI-assisted journal exploring permission-scoped memory, trustworthy context, and the boundaries of a system that remembers. |
+| **IET-NASA Space Apps Challenge** | Led a six-person unmanned rover concept that received the People’s Choice Award and third prize. |
+| **Automatic Flushing System** | Hydraulics-based research, presented and published through ICTAME and IRJET in 2021. |
+| **IoT Inventory Prototype** | A connected inventory proof of concept designed to reduce floor footprint, manual effort, and delivery time. |
 
 <p align="center">
-  <img src="./assets/toolbox.svg" alt="Toolbox covering agent systems, product engineering, data platforms, and software quality" width="100%" />
+  <img src="./assets/toolbox.svg" alt="Tools Lubin Raj reaches for across agentic AI, product systems, experience, and delivery" width="100%" />
 </p>
 
-## Highlights
+## Milestones worth keeping
 
-| 🎓 Google GenAI Academy | 🥇 IIT Madras NPTEL |
-| --- | --- |
-| **GenAI Master, 2026**<br>Built Cognaxis with Gemini, Google AI Studio, and Cloud Run | **Operations Management specialization**<br>Top 1% in one subject and Top 10% in two subjects |
-| 🚀 IET-NASA Space Apps | 📄 Published research |
-| **People's Choice / 3rd Prize, 2020**<br>Led a six-member unmanned rover project | **ICTAME and IRJET, 2021**<br>Hydraulics-based automatic urinal flushing system |
+- **Google GenAI Academy, 2026** - GenAI Master. Cognaxis grew out of the program.
+- **IIT Madras NPTEL, 2020-2021** - Operations Management specialization, including Top 1% and Top 10% results.
+- **IET-NASA Space Apps Challenge, 2020** - People’s Choice Award and third prize.
+- **IIT Indore, 2021** - Research internship focused on a semi-automated textile pin-arrangement system.
 
-## What I want to build next
-
-Ambitious AI products with multiple tools, meaningful data, long-running context, complex workflows, and enough scale to reveal the hard engineering problems.
-
-I want this profile to grow into a visual record of that journey: working projects, experiments, reusable patterns, and lessons that only appear after building something real.
+---
 
 <p align="center">
-  <strong>Building a serious AI product, agent platform, or difficult full-stack system?</strong><br>
-  <a href="https://www.linkedin.com/in/lubinrajJ/">Let's connect on LinkedIn</a>
+  <strong>Interested in an AI product, agent platform, or a difficult full-stack problem?</strong><br />
+  <a href="https://www.linkedin.com/in/lubinrajJ/">Start a conversation on LinkedIn</a>
 </p>

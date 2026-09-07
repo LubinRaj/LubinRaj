@@ -1,43 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title description">
   <title id="title">Lubin Raj - Full Stack AI Engineer</title>
-  <desc id="description">A visual header connecting product engineering, systems, and agentic AI.</desc>
-  <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#071426"/>
-      <stop offset="0.55" stop-color="#11183a"/>
-      <stop offset="1" stop-color="#20104a"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#25d0b1"/>
-      <stop offset="1" stop-color="#9b7cff"/>
-    </linearGradient>
-    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="12"/>
-    </filter>
-  </defs>
-
-  <rect width="1200" height="320" rx="28" fill="url(#background)"/>
-  <circle cx="1080" cy="35" r="190" fill="#7047eb" opacity="0.14"/>
-  <circle cx="955" cy="290" r="155" fill="#16c7ab" opacity="0.10"/>
-  <path d="M60 258 H682" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
-
-  <text x="64" y="92" fill="#f7f9ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="50" font-weight="750" letter-spacing="1">LUBIN RAJ</text>
-  <text x="66" y="140" fill="#9b7cff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="4">FULL STACK AI ENGINEER</text>
-  <text x="66" y="194" fill="#cdd6ea" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">Building products where software, systems, and AI work as one.</text>
-  <text x="66" y="235" fill="#7ee7d2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">MCP  •  Mastra  •  AI-native products  •  Agentic SDLC</text>
-
-  <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
-    <circle cx="820" cy="151" r="73" fill="#11263d" stroke="#25d0b1" stroke-width="2"/>
-    <circle cx="956" cy="151" r="73" fill="#1a2045" stroke="#748ffc" stroke-width="2"/>
-    <circle cx="1092" cy="151" r="73" fill="#281847" stroke="#9b7cff" stroke-width="2"/>
-    <path d="M893 151 H883 M1029 151 H1019" stroke="#d6dcf0" stroke-width="3" stroke-linecap="round"/>
-    <circle cx="888" cy="151" r="5" fill="#d6dcf0"/>
-    <circle cx="1024" cy="151" r="5" fill="#d6dcf0"/>
-    <text x="820" y="146" fill="#7ee7d2" font-size="17" font-weight="700">PRODUCT</text>
-    <text x="820" y="172" fill="#cdd6ea" font-size="13">UX + CODE</text>
-    <text x="956" y="146" fill="#9eb1ff" font-size="17" font-weight="700">SYSTEMS</text>
-    <text x="956" y="172" fill="#cdd6ea" font-size="13">DATA + CLOUD</text>
-    <text x="1092" y="146" fill="#c1aaff" font-size="17" font-weight="700">AGENTS</text>
-    <text x="1092" y="172" fill="#cdd6ea" font-size="13">TOOLS + AI</text>
+  <desc id="description">Building capable software across product, systems, and agentic AI.</desc>
+  <rect width="1200" height="430" fill="#10100f"/>
+  <path d="M48 66H1152" stroke="#4a4945" stroke-width="1"/>
+  <circle cx="66" cy="48" r="10" fill="#2f51ff"/>
+  <path d="M62 40h5v14h8v5H62z" fill="#f3f1ed"/>
+  <text x="90" y="53" fill="#f3f1ed" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3">LUBIN RAJ</text>
+  <text x="48" y="128" fill="#a9a69f" font-family="monospace" font-size="14" font-weight="700" letter-spacing="2">01  /  FULL STACK AI ENGINEER</text>
+  <text x="48" y="222" fill="#f3f1ed" font-family="Arial, sans-serif" font-size="82" font-weight="700" letter-spacing="-5">Building</text>
+  <text x="48" y="298" fill="#f3f1ed" font-family="Arial, sans-serif" font-size="82" font-weight="700" letter-spacing="-5">capable</text>
+  <text x="48" y="374" fill="#2f51ff" font-family="Georgia, serif" font-size="88" font-style="italic" font-weight="400" letter-spacing="-6">software.</text>
+  <path d="M44 382H474" stroke="#f3f1ed" stroke-width="5"/>
+  <g font-family="Arial, sans-serif">
+    <text x="765" y="215" fill="#d5d2cb" font-family="Georgia, serif" font-size="25">I work across product, systems, and</text>
+    <text x="765" y="247" fill="#d5d2cb" font-family="Georgia, serif" font-size="25">intelligence to make software useful</text>
+    <text x="765" y="279" fill="#d5d2cb" font-family="Georgia, serif" font-size="25">in the real conditions it must survive.</text>
+    <path d="M765 320H1152" stroke="#55534e" stroke-width="1"/>
+    <text x="765" y="350" fill="#9f9c95" font-size="13">FOCUS</text>
+    <text x="1152" y="350" fill="#f3f1ed" font-size="14" font-weight="700" text-anchor="end">AI-NATIVE PRODUCT ENGINEERING</text>
+    <text x="765" y="382" fill="#9f9c95" font-size="13">BASED IN</text>
+    <text x="1152" y="382" fill="#f3f1ed" font-size="14" font-weight="700" text-anchor="end">CHENNAI, INDIA</text>
   </g>
 </svg>

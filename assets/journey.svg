@@ -1,33 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title description">
-  <title id="title">Lubin Raj's engineering journey</title>
-  <desc id="description">A timeline from automation and IoT to full-stack products and agentic AI.</desc>
-  <defs>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#25d0b1"/>
-      <stop offset="0.5" stop-color="#748ffc"/>
-      <stop offset="1" stop-color="#9b7cff"/>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title description">
+  <title id="title">The path so far</title>
+  <desc id="description">A progression from automation and IoT through product engineering to agentic AI.</desc>
+  <rect width="1200" height="290" fill="#10100f"/>
+  <text x="48" y="52" fill="#f3f1ed" font-family="Arial, sans-serif" font-size="31" font-weight="700" letter-spacing="-1">The path so far.</text>
+  <text x="48" y="79" fill="#9f9c95" font-family="Georgia, serif" font-size="17">The problems changed. The desire to understand how things work did not.</text>
+  <path d="M48 105H1152" stroke="#4a4945" stroke-width="1"/>
+  <g font-family="Arial, sans-serif">
+    <text x="48" y="143" fill="#2f51ff" font-family="monospace" font-size="13" font-weight="700" letter-spacing="2">01 / STARTED WITH</text>
+    <text x="48" y="188" fill="#f3f1ed" font-size="28" font-weight="700" letter-spacing="-1">Automation + IoT</text>
+    <text x="48" y="219" fill="#a9a69f" font-family="Georgia, serif" font-size="17">Control systems, simulation, virtual prototypes.</text>
 
-  <rect width="1200" height="270" rx="24" fill="#0d1426"/>
-  <text x="60" y="50" fill="#8290aa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3">THE PATH SO FAR</text>
-  <path d="M170 121 H1030" stroke="url(#line)" stroke-width="5" stroke-linecap="round"/>
+    <path d="M415 125V235" stroke="#4a4945" stroke-width="1"/>
+    <text x="445" y="143" fill="#2f51ff" font-family="monospace" font-size="13" font-weight="700" letter-spacing="2">02 / GREW INTO</text>
+    <text x="445" y="188" fill="#f3f1ed" font-size="28" font-weight="700" letter-spacing="-1">Product engineering</text>
+    <text x="445" y="219" fill="#a9a69f" font-family="Georgia, serif" font-size="17">Interfaces, APIs, data, cloud, and delivery.</text>
 
-  <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
-    <circle cx="190" cy="121" r="24" fill="#102f35" stroke="#25d0b1" stroke-width="5"/>
-    <circle cx="600" cy="121" r="24" fill="#1a2548" stroke="#748ffc" stroke-width="5"/>
-    <circle cx="1010" cy="121" r="24" fill="#2b1c4b" stroke="#9b7cff" stroke-width="5"/>
-
-    <text x="190" y="91" fill="#7ee7d2" font-size="15" font-weight="700">STARTED WITH</text>
-    <text x="190" y="174" fill="#f2f5ff" font-size="22" font-weight="700">Automation + IoT</text>
-    <text x="190" y="207" fill="#aab5ca" font-size="16">Arduino • PLCs • Control systems</text>
-
-    <text x="600" y="91" fill="#9eb1ff" font-size="15" font-weight="700">GREW INTO</text>
-    <text x="600" y="174" fill="#f2f5ff" font-size="22" font-weight="700">Full-stack Products</text>
-    <text x="600" y="207" fill="#aab5ca" font-size="16">Interfaces • APIs • Data • Cloud</text>
-
-    <text x="1010" y="91" fill="#c1aaff" font-size="15" font-weight="700">EXPLORING NOW</text>
-    <text x="1010" y="174" fill="#f2f5ff" font-size="22" font-weight="700">Agentic AI</text>
-    <text x="1010" y="207" fill="#aab5ca" font-size="16">MCP • Mastra • Memory • Evals</text>
+    <path d="M805 125V235" stroke="#4a4945" stroke-width="1"/>
+    <text x="835" y="143" fill="#2f51ff" font-family="monospace" font-size="13" font-weight="700" letter-spacing="2">03 / EXPLORING NOW</text>
+    <text x="835" y="188" fill="#f3f1ed" font-size="28" font-weight="700" letter-spacing="-1">Agentic AI</text>
+    <text x="835" y="219" fill="#a9a69f" font-family="Georgia, serif" font-size="17">MCP, Mastra, context, tools, and evaluation.</text>
   </g>
+  <circle cx="1115" cy="280" r="130" fill="none" stroke="#2f51ff" stroke-opacity=".38" stroke-width="2"/>
 </svg>
